@@ -18,7 +18,7 @@
 
 ## Connect with me
 <p align="left"> <a href="https://twitter.com/jarnedm_" target="blank"><img src="https://img.shields.io/twitter/follow/jarnedm_?logo=twitter&style=for-the-badge" alt="jarnedm_" /></a> </p>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uck0pgrqc3uziqzay_caeu8a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uck0pgrqc3uziqzay_caeu8a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/Dev.Sprungles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dev.Sprungles" height="30" width="40" /></a>
 </p>
 
 
