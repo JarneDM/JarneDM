@@ -1,5 +1,5 @@
 
-[<img src="https://v2.speedtyper.dev/users/JarneDM/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/JarneDM) 
+ 
 
 
 
