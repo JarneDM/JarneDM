@@ -1,6 +1,6 @@
 
 [<img src="https://v2.speedtyper.dev/users/JarneDM/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/JarneDM) 
-[<img src="https://v2.speedtyper.dev/users/JarneDM/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/JarneDM)
+
 
 
 ### Welcome👨‍💻
