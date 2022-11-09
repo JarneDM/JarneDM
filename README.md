@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jarne</h1>
-<h3 align="left">A game developer from Belgium</h3>
+<h3 align="left">A developer from Belgium</h3>
 
 
 
