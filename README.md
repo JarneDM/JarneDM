@@ -18,8 +18,7 @@
 
 ## Connect with me
 <p align="left"> <a href="https://twitter.com/jarnedm_" target="blank"><img src="https://img.shields.io/twitter/follow/jarnedm_?logo=twitter&style=for-the-badge" alt="jarnedm_" /></a> </p>
-<a href="https://www.youtube.com/channel/UCK0pGrQc3uziqzAY_CAEu8A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dev.Sprungles" height="30" width="40" /></a>
-</p>
+
 
 
 ## Stats
