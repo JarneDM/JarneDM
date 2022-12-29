@@ -16,8 +16,7 @@
 ## Languages and tools
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-## Connect with me
-<p align="left"> <a href="https://twitter.com/jarnedm_" target="blank"><img src="https://img.shields.io/twitter/follow/jarnedm_?logo=twitter&style=for-the-badge" alt="jarnedm_" /></a> </p>
+
 
 
 
