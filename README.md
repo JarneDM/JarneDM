@@ -7,9 +7,13 @@
 
 - 🌱 I’m currently learning ...
 
-- 👨‍💻 All of my projects are available at [https://github.com/JarneDM](https://github.com/JarneDM)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/JarneDM)
+
+- 🐦 You can also find me on [Twitter](https://twitter.com/JarneDM05)
 
 - ⚡ Fun fact **I am a Self-Taught developer**
+
+
 
 
 
