@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Web Development
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/JarneDM)
 
@@ -14,6 +14,8 @@
 - ⚡ Fun fact **I am a Self-Taught developer**
 
 - ⌚ I have coded [![wakatime](https://wakatime.com/badge/user/86a552fc-d0f8-4683-b1f8-6319e690ff78.svg)](https://wakatime.com/@86a552fc-d0f8-4683-b1f8-6319e690ff78) since 05/02/2023 (EU date)
+
+-  ℹ️  You can see more info about me on my [Portfolio](https://portfolio-jarnedm.vercel.app/)
 
 
 
