@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [My Github]((https://github.com/JarneDM?tab=repositories))
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/JarneDM?tab=repositories)
 
 - 🐦 You can also find me on [Twitter](https://twitter.com/JarneDM05)
 
