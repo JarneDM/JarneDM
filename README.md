@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **...**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/JarneDM?tab=repositories)
 
