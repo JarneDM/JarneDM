@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working on a game called **Gym Clickr**
 
 - 🌱 I’m currently learning **...**
 
