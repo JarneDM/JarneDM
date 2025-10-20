@@ -35,7 +35,8 @@
 
 ## Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jarnedm&show_icons=true&locale=en" alt="jarnedm" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarnedm&show_icons=true&locale=en&layout=compact" alt="jarnedm" /></p>
+![jarnedm's Stats](https://github-readme-stats.vercel.app/api?username=jarnedm&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![jarnedm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jarnedm&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 
 
