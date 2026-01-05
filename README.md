@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on a laravel backend for [Skivio](https://github.com/JarneDM/Skivio)
+- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently learning **C#** & **.NET**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/JarneDM?tab=repositories)
 
@@ -15,28 +15,30 @@
 
 -  ℹ️  You can see more info about me on my [Portfolio](https://portfolio-jarnedm.vercel.app/)
 
+---
+
+### 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 
 
+---
 
-## Languages and tools
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</P> 
+### 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jarne-de-meyer-22a2b5358/])
 
   
 
 
 
-
-
-## Stats
-
-![jarnedm's Stats](https://github-readme-stats.vercel.app/api?username=jarnedm&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![jarnedm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jarnedm&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 
 
