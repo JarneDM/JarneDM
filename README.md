@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **C#** & **.NET**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/JarneDM?tab=repositories)
-
-- 🐦 You can also find me on [Twitter](https://twitter.com/JarneDM05)
   
 - ⌚ I have coded [![wakatime](https://wakatime.com/badge/user/86a552fc-d0f8-4683-b1f8-6319e690ff78.svg)](https://wakatime.com/@86a552fc-d0f8-4683-b1f8-6319e690ff78) since 05/02/2023 (EU date)
 
